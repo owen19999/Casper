@@ -94,6 +94,7 @@ production stylesheet in assets/built/screen.css
     position: relative;
     color: #fff;
     background: var(--ghost-accent-color);
+    
 }
 
 .site-header-cover {
